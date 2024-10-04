@@ -22,7 +22,7 @@ Welcome to the Coffee Shop Website! This project is a showcase of a fully respon
 
 ## Demo
 
-[Live Demo]: https://rishabh-verma-thc.github.io/CoffeeShop-WebPage/
+[Live Demo](https://rishabh-verma-thc.github.io/CoffeeShop-WebPage/)
 
 ## Technologies Used
 
@@ -50,7 +50,7 @@ To get a local copy of this project up and running, follow these steps:
 - Scroll down to see the animations triggered by the AOS library.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the MIT License. See the [MIT License](LICENSE) file for more information.
 
 ## Acknowledgments
 
