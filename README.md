@@ -37,10 +37,10 @@ To get a local copy of this project up and running, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Rishabh-Verma-thc/CoffeeShop-WebPage
 
 2. Navigate to the Project directory:
-    cd your-repo-name
+    cd CoffeeShop-WebPage
 
 3. Open index.html in your web browser to view the website.
 
