@@ -22,7 +22,7 @@ Welcome to the Coffee Shop Website! This project is a showcase of a fully respon
 
 ## Demo
 
-[Live Demo]([https://your-live-demo-link.com](https://rishabh-verma-thc.github.io/CoffeeShop-WebPage/)) (Replace this with the actual link to your live website)
+[Live Demo]: https://rishabh-verma-thc.github.io/CoffeeShop-WebPage/
 
 ## Technologies Used
 
