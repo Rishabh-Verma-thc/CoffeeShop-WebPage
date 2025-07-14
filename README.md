@@ -24,6 +24,14 @@ Welcome to the Coffee Shop Website! This project is a showcase of a fully respon
 
 You can check the [Live Demo](https://rishabh-verma-thc.github.io/CoffeeShop-WebPage/) here.
 
+![Main page screenshot](Images/proj-ss-1.png)
+
+![About section screenshot](Images/proj-ss-2.png)
+
+![Products section screenshot](Images/proj-ss-3.png)
+
+![Customers section screenshot](Images/proj-ss-4.png)
+
 ## Technologies Used
 
 - **HTML**: For structuring the web pages.
@@ -36,10 +44,11 @@ You can check the [Live Demo](https://rishabh-verma-thc.github.io/CoffeeShop-Web
 To get a local copy of this project up and running, follow these steps:
 
 1. Clone the repository:
-   ```bash
+    ```bash
    git clone https://github.com/Rishabh-Verma-thc/CoffeeShop-WebPage
 
 2. Navigate to the Project directory:
+    ```bash
     cd CoffeeShop-WebPage
 
 3. Open index.html in your web browser to view the website.
